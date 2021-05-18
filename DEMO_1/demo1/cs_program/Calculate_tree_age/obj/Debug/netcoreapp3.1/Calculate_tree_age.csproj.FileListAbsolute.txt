@@ -1,0 +1,13 @@
+C:\Users\vpfaitc\Desktop\demo1\cs_program\Calculate_tree_age\bin\Debug\netcoreapp3.1\Calculate_tree_age.exe
+C:\Users\vpfaitc\Desktop\demo1\cs_program\Calculate_tree_age\bin\Debug\netcoreapp3.1\Calculate_tree_age.deps.json
+C:\Users\vpfaitc\Desktop\demo1\cs_program\Calculate_tree_age\bin\Debug\netcoreapp3.1\Calculate_tree_age.runtimeconfig.json
+C:\Users\vpfaitc\Desktop\demo1\cs_program\Calculate_tree_age\bin\Debug\netcoreapp3.1\Calculate_tree_age.runtimeconfig.dev.json
+C:\Users\vpfaitc\Desktop\demo1\cs_program\Calculate_tree_age\bin\Debug\netcoreapp3.1\Calculate_tree_age.dll
+C:\Users\vpfaitc\Desktop\demo1\cs_program\Calculate_tree_age\bin\Debug\netcoreapp3.1\Calculate_tree_age.pdb
+C:\Users\vpfaitc\Desktop\demo1\cs_program\Calculate_tree_age\obj\Debug\netcoreapp3.1\Calculate_tree_age.csprojAssemblyReference.cache
+C:\Users\vpfaitc\Desktop\demo1\cs_program\Calculate_tree_age\obj\Debug\netcoreapp3.1\Calculate_tree_age.AssemblyInfoInputs.cache
+C:\Users\vpfaitc\Desktop\demo1\cs_program\Calculate_tree_age\obj\Debug\netcoreapp3.1\Calculate_tree_age.AssemblyInfo.cs
+C:\Users\vpfaitc\Desktop\demo1\cs_program\Calculate_tree_age\obj\Debug\netcoreapp3.1\Calculate_tree_age.csproj.CoreCompileInputs.cache
+C:\Users\vpfaitc\Desktop\demo1\cs_program\Calculate_tree_age\obj\Debug\netcoreapp3.1\Calculate_tree_age.dll
+C:\Users\vpfaitc\Desktop\demo1\cs_program\Calculate_tree_age\obj\Debug\netcoreapp3.1\Calculate_tree_age.pdb
+C:\Users\vpfaitc\Desktop\demo1\cs_program\Calculate_tree_age\obj\Debug\netcoreapp3.1\Calculate_tree_age.genruntimeconfig.cache
