@@ -1,0 +1,13 @@
+C:\Users\vpfaitc\source\repos\Hw_9\bin\Debug\netcoreapp3.1\Hw_9.exe
+C:\Users\vpfaitc\source\repos\Hw_9\bin\Debug\netcoreapp3.1\Hw_9.deps.json
+C:\Users\vpfaitc\source\repos\Hw_9\bin\Debug\netcoreapp3.1\Hw_9.runtimeconfig.json
+C:\Users\vpfaitc\source\repos\Hw_9\bin\Debug\netcoreapp3.1\Hw_9.runtimeconfig.dev.json
+C:\Users\vpfaitc\source\repos\Hw_9\bin\Debug\netcoreapp3.1\Hw_9.dll
+C:\Users\vpfaitc\source\repos\Hw_9\bin\Debug\netcoreapp3.1\Hw_9.pdb
+C:\Users\vpfaitc\source\repos\Hw_9\obj\Debug\netcoreapp3.1\Hw_9.csprojAssemblyReference.cache
+C:\Users\vpfaitc\source\repos\Hw_9\obj\Debug\netcoreapp3.1\Hw_9.AssemblyInfoInputs.cache
+C:\Users\vpfaitc\source\repos\Hw_9\obj\Debug\netcoreapp3.1\Hw_9.AssemblyInfo.cs
+C:\Users\vpfaitc\source\repos\Hw_9\obj\Debug\netcoreapp3.1\Hw_9.csproj.CoreCompileInputs.cache
+C:\Users\vpfaitc\source\repos\Hw_9\obj\Debug\netcoreapp3.1\Hw_9.dll
+C:\Users\vpfaitc\source\repos\Hw_9\obj\Debug\netcoreapp3.1\Hw_9.pdb
+C:\Users\vpfaitc\source\repos\Hw_9\obj\Debug\netcoreapp3.1\Hw_9.genruntimeconfig.cache
